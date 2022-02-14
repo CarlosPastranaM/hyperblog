@@ -1,5 +1,5 @@
 Este es un ejemplo para probar git
 
-Me gusta la pizza y los tacos y los chetos
+Me gusta la pizza y los tacos
 
-Hoy vamos a hablar de su vida y obra maestra.
+Manana nos enfocaremos en su vida laboral 
