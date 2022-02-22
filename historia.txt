@@ -2,4 +2,6 @@ Este es un ejemplo para probar git
 
 Me gusta la pizza y los tacos
 
+Master 1
+
 Manana nos enfocaremos en su vida laboral 
