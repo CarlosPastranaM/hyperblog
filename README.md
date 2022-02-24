@@ -11,6 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Creado por el increíble platzi team y el sopas
 * Incluye ejemplos en windows, linux y mac, lo cuál es muy bueno 
-* Disponible para todas las edades
+* Disponible para todas las edades y géneros
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
